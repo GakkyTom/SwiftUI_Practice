@@ -1,6 +1,6 @@
 //
 //  ContentView.swift
-//  NutritionAnalyzer
+//  SwiftUI_Practice
 //
 //  Created by 板垣智也 on 2021/06/19.
 //
@@ -9,10 +9,7 @@ import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-//        NavigationView {
-            LandmarkList()
-//        }
-//        .navigationTitle("Landmarks")
+        LandmarkList()
     }
 }
 

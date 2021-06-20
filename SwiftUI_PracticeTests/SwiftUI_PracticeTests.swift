@@ -1,14 +1,14 @@
 //
-//  NutritionAnalyzerTests.swift
-//  NutritionAnalyzerTests
+//  SwiftUI_PracticeTests.swift
+//  SwiftUI_PracticeTests
 //
 //  Created by 板垣智也 on 2021/06/19.
 //
 
 import XCTest
-@testable import NutritionAnalyzer
+@testable import SwiftUI_Practice
 
-class NutritionAnalyzerTests: XCTestCase {
+class SwiftUI_PracticeTests: XCTestCase {
 
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.

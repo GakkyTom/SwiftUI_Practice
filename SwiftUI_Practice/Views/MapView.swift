@@ -1,6 +1,6 @@
 //
 //  MapView.swift
-//  NutritionAnalyzer
+//  SwiftUI_Practice
 //
 //  Created by 板垣智也 on 2021/06/19.
 //
